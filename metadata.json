@@ -1,0 +1,6 @@
+{
+  "name": "NewsCade: Daily News Quiz & Trivia Quest",
+  "description": "Play engaging time-pass mini-games and interactive daily news quizzes powered by Gemini. Learn something new every day with Headline Detective, Fact or Fiction, Speed Blitz, and Deep Lore challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
